@@ -16,7 +16,7 @@ Spring Framework, JPA, JSOUP, SQL, Morphology Library Lucene
 Страница содержит три вкладки.
 
 ### Вкладка DASHBOARD
-![image](https://user-images.githubusercontent.com/19908367/207224036-ba81ae73-c3a1-4627-bef3-f277e5103146.png)
+![image](https://github.com/BaryshevAlexey/searchengine/issues/1)
 Эта вкладка открывается по умолчанию. На ней
 отображается общая статистика по всем проиндексированным сайтам, а также
 детальная статистика и статус по каждому из сайтов (статистика,
