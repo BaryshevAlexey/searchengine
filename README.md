@@ -23,7 +23,7 @@ Spring Framework, JPA, JSOUP, SQL, Morphology Library Lucene
 получаемая по запросу <i>/statistics</i>).
 
 ### Вкладка MANAGEMENT
-![image](https://user-images.githubusercontent.com/19908367/207224264-dae30c37-c9a6-49da-a67a-272a34d72f16.png)
+![Management](https://github.com/BaryshevAlexey/searchengine/assets/110742068/9645951e-95c5-40ed-96e5-9c846139dc50)
 На этой вкладке находятся инструменты управления 
 поисковым движком — запуск (запрос <i>/startIndexing</i>) 
 и остановка (запрос <i>/stopIndexing</i>) полной индексации
@@ -31,7 +31,7 @@ Spring Framework, JPA, JSOUP, SQL, Morphology Library Lucene
 отдельную страницу по ссылке (запрос <i>/indexPage/{pagePath}</i>).
 
 ### Вкладка SEARCH
-![image](https://user-images.githubusercontent.com/19908367/207224493-56a19681-73c6-41f4-a4ba-5c33aef87237.png)<p>
+![Search](https://github.com/BaryshevAlexey/searchengine/assets/110742068/a2e87634-1335-4232-aeb2-eab207433777)
 Эта вкладка предназначена для тестирования поискового
 движка. На ней находится поле поиска и выпадающий список с
 выбором сайта, по которому искать, а при нажатии на кнопку
